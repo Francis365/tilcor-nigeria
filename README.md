@@ -1,10 +1,10 @@
-# Tilcor Nigeria - Premium Stone Coated Steel Roofing
+# Stone Bridge - Premium Stone Coated Steel Roofing
 
-Welcome to Tilcor Nigeria's official website. We are Nigeria's premier provider of stone coated steel roofing systems, bringing world-class roofing technology to Nigerian homes and businesses.
+Welcome to Stone Bridge's official website. We are a premier provider of stone coated steel roofing systems, bringing world-class roofing technology to homes and businesses.
 
-## About Tilcor Nigeria
+## About Stone Bridge
 
-Tilcor Nigeria offers superior protection against the elements with unmatched durability and beauty. Our roofing systems are specifically engineered to withstand Nigeria's challenging climate conditions including heavy rains, intense sun, and strong winds.
+Stone Bridge offers superior protection against the elements with unmatched durability and beauty. Our roofing systems are specifically engineered to withstand challenging climate conditions including heavy rains, intense sun, and strong winds.
 
 ## Our Products
 
@@ -26,19 +26,19 @@ Tilcor Nigeria offers superior protection against the elements with unmatched du
 
 ## Contact Information
 
-**Address**: Plot 123, Lekki-Epe Expressway, Lekki Phase 1, Lagos, Nigeria
+**Address**: 123 Main Street, Suite 100, City, State 12345
 
-**Phone**: 
-- +234 803 332 4963
-- +234 808 440 8542
+**Phone**:
+- +1 (555) 123-4567
+- +1 (555) 987-6543
 
-**Email**: info@tilcornigeria.com
+**Email**: info@stonebridge.com
 
 ## Business Hours
 
 - **Monday – Friday**: 8am to 6pm
 - **Saturday**: 9am to 4pm
-- **Sundays & Nigerian Public Holidays**: Closed
+- **Sundays & Holidays**: Closed
 
 ## Website Technology
 
@@ -57,4 +57,4 @@ The website is deployed on Render.com as a static site.
 
 ---
 
-© 2024 Tilcor Nigeria. All rights reserved. | Premium Stone Coated Steel Roofing Systems
+© 2024 Stone Bridge. All rights reserved. | Premium Stone Coated Steel Roofing Systems

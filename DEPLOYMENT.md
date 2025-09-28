@@ -1,12 +1,12 @@
-# Tilcor Nigeria Website - Deployment Guide
+# Stone Bridge Website - Deployment Guide
 
 ## Project Overview
 
-This is a complete recreation of a roofing website template, customized for Tilcor Nigeria - a premium stone coated steel roofing company. The website includes:
+This is a complete recreation of a roofing website template, customized for Stone Bridge - a premium stone coated steel roofing company. The website includes:
 
 - **Responsive Design**: Bootstrap 4 framework
 - **Modern UI/UX**: Professional roofing industry design
-- **Nigerian Localization**: Content tailored for Nigerian market
+- **Professional Branding**: Content tailored for Stone Bridge
 - **Complete Template Recreation**: All original styles and functionality preserved
 - **SEO Optimized**: Meta tags and structured content
 
@@ -27,7 +27,7 @@ npx http-server -p 8000
 
 ### Step 1: Create GitHub Repository
 
-1. Go to [GitHub](https://github.com) and create a new repository named `tilcor-nigeria`
+1. Go to [GitHub](https://github.com) and create a new repository named `stone-bridge`
 2. Make it public for free Render deployment
 3. Don't initialize with README (we already have one)
 
@@ -35,7 +35,7 @@ npx http-server -p 8000
 
 ```bash
 # Add GitHub remote (replace with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/tilcor-nigeria.git
+git remote add origin https://github.com/YOUR_USERNAME/stone-bridge.git
 
 # Push to GitHub
 git branch -M main
@@ -48,7 +48,7 @@ git push -u origin main
 2. Click "New +" → "Static Site"
 3. Connect your GitHub repository
 4. Configure deployment settings:
-   - **Name**: `tilcor-nigeria`
+   - **Name**: `stone-bridge`
    - **Branch**: `main`
    - **Build Command**: `echo "No build required"`
    - **Publish Directory**: `.` (root directory)
@@ -58,7 +58,7 @@ git push -u origin main
 
 1. In Render dashboard, go to your static site
 2. Navigate to "Settings" → "Custom Domains"
-3. Add your custom domain (e.g., `www.tilcornigeria.com`)
+3. Add your custom domain (e.g., `www.stonebridge.com`)
 4. Configure DNS records as instructed by Render
 
 ## Website Features Implemented
@@ -73,18 +73,17 @@ git push -u origin main
 - [x] Owl Carousel sliders
 - [x] Magnific Popup galleries
 
-### ✅ Nigerian Localization
-- [x] Tilcor Nigeria branding
-- [x] Nigerian contact information
-- [x] Local business hours
-- [x] Nigerian cities in project examples
-- [x] Currency and measurement localization
-- [x] Nigerian testimonials
+### ✅ Professional Branding
+- [x] Stone Bridge branding
+- [x] Professional contact information
+- [x] Business hours
+- [x] Project examples
+- [x] Professional testimonials
 
 ### ✅ Content Sections
-- [x] Hero section with Nigerian messaging
+- [x] Hero section with Stone Bridge messaging
 - [x] About section with company information
-- [x] Products section (Tilcor roofing profiles)
+- [x] Products section (roofing profiles)
 - [x] Statistics counter
 - [x] Project gallery
 - [x] Customer testimonials
@@ -103,7 +102,7 @@ git push -u origin main
 ## File Structure
 
 ```
-tilcor-nigeria/
+stone-bridge/
 ├── index.html              # Main homepage
 ├── css/                    # Stylesheets
 │   ├── style.css          # Main styles
@@ -139,11 +138,11 @@ tilcor-nigeria/
 
 For technical support or questions about the website:
 
-**Tilcor Nigeria**
-- Address: Plot 123, Lekki-Epe Expressway, Lekki Phase 1, Lagos, Nigeria
-- Phone: +234 803 332 4963, +234 808 440 8542
-- Email: info@tilcornigeria.com
+**Stone Bridge**
+- Address: 123 Main Street, Suite 100, City, State 12345
+- Phone: +1 (555) 123-4567, +1 (555) 987-6543
+- Email: info@stonebridge.com
 
 ---
 
-© 2024 Tilcor Nigeria. All rights reserved.
+© 2024 Stone Bridge. All rights reserved.
